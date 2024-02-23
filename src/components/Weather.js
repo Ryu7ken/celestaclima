@@ -144,7 +144,7 @@ useEffect(() => {
             </div>
 
             {/* Container for weather info */}
-            <div className='bg-gray-400 bg-opacity-50 py-1 w-7/12 sm:w-6/12 md:w-4/12 m-auto rounded-2xl'>
+            <div className='bg-gray-400 bg-opacity-50 py-1 w-8/12 sm:w-6/12 md:w-4/12 m-auto rounded-2xl'>
 
               {/* City name & Country */}
               {data?.name ? <h2 className='my-1 text-3xl md:text-4xl font-bold'>{data?.name}, {data?.sys?.country}</h2> : null}
