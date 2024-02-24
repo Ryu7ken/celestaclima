@@ -104,7 +104,7 @@ useEffect(() => {
           <h1 className='text-2xl sm:text-3xl md:text-4xl font-semibold'>CelestaClima.</h1>
 
           {/* Github Redirecting Link */}
-          <a href='https://github.com/Ryu7ken?tab=repositories'><BsGithub className='mx-3 text-2xl sm:text-3xl md:text-4xl animate-pulse'/></a>
+          <a href='https://github.com/Ryu7ken/celestaclima'><BsGithub className='mx-3 text-2xl sm:text-3xl md:text-4xl animate-pulse'/></a>
         </div>
 
         {/* Search bar functionality */}
