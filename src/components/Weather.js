@@ -128,7 +128,7 @@ useEffect(() => {
         {/* Show only when nothing is searched */}
         {data?.name === undefined &&
           <div className='my-16'>
-            <ReactTyped className="p-4 font-semibold text-lg sm:text-2xl md:text-4xl" strings={[' By Abdul Baquiur Rahman']} typeSpeed={50}/>
+            <ReactTyped className="p-4 font-semibold text-lg sm:text-2xl md:text-4xl" strings={['Real time weather forecast']} typeSpeed={50}/>
           </div>
         }
 
