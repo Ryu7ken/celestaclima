@@ -6,7 +6,7 @@ import { IoMdCloudy, IoMdRainy, IoMdSnow, IoMdSunny, IoMdThunderstorm, IoMdSearc
 import { WiCloudy } from "react-icons/wi";
 import { BiTachometer } from "react-icons/bi";
 import { MdOutlineWaterDrop } from "react-icons/md";
-import bg from '../assets/weather.png';
+import bg from '../assets/weather.jpg';
 
 function Weather() {
 
